@@ -9,6 +9,11 @@
 </p>
 </div>
 
+<div align="center">
+<img src="https://github.com/jamile-moreira/Calculadora-Barbie/assets/102548113/f19df82e-7d1f-499b-bc17-67a185095c4e"/>
+  
+</div>
+
 <div align="center" valign="top"> 
   <h3>:round_pushpin: Para a criação desse projeto foi usado as seguintes tecnologias:</h3>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
